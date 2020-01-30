@@ -1,0 +1,13 @@
+.tab-item img {
+  margin-top: 1px;
+  width: 29px;
+  vertical-align: middle;
+}
+
+.tab-item div {
+  font-size: 12px;
+}
+
+.active {
+  color: #d81e06
+}
